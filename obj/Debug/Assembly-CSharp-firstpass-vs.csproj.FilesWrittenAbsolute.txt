@@ -1,0 +1,10 @@
+/Users/Adam/GD/topo-survival/Temp/bin/Debug/Assembly-CSharp-firstpass.dll.mdb
+/Users/Adam/GD/topo-survival/Temp/bin/Debug/Assembly-CSharp-firstpass.dll
+/Users/Adam/GD/topo-survival/obj/Debug/Assembly-CSharp-firstpass.dll
+/Users/Adam/GD/topo-survival/obj/Debug/Assembly-CSharp-firstpass.dll.mdb
+/Users/Adam/GD/topo-survival/Temp/bin/Debug/UnityEngine.dll
+/Users/Adam/GD/topo-survival/Temp/bin/Debug/UnityEditor.dll
+/Users/Adam/GD/topo-survival/Temp/bin/Debug/Mono.Cecil.dll
+/Users/Adam/GD/topo-survival/Temp/bin/Debug/nunit.framework.dll
+/Users/Adam/GD/topo-survival/Temp/bin/Debug/Unity.DataContract.dll
+/Users/Adam/GD/topo-survival/Temp/bin/Debug/ICSharpCode.NRefactory.dll

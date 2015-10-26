@@ -1,0 +1,165 @@
+fileFormatVersion: 2
+guid: c6679ad8062094cab892e4ac27c624b0
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Chest
+    100004: Head
+    100006: L_Elbow
+    100008: L_Foot
+    100010: L_Hand
+    100012: L_Hip
+    100014: L_Knee
+    100016: L_Shoulder
+    100018: Low_Back
+    100020: Model
+    100022: Neck
+    100024: R_Elbow
+    100026: R_Foot
+    100028: R_Hand
+    100030: R_Hip
+    100032: R_Knee
+    100034: R_Shoulder
+    100036: Skin
+    400000: //RootNode
+    400002: Chest
+    400004: Head
+    400006: L_Elbow
+    400008: L_Foot
+    400010: L_Hand
+    400012: L_Hip
+    400014: L_Knee
+    400016: L_Shoulder
+    400018: Low_Back
+    400020: Model
+    400022: Neck
+    400024: R_Elbow
+    400026: R_Foot
+    400028: R_Hand
+    400030: R_Hip
+    400032: R_Knee
+    400034: R_Shoulder
+    400036: Skin
+    4300000: Model
+    7400000: C4D Animation Take
+    9500000: //RootNode
+    13700000: Model
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: C4D Animation Take
+      takeName: C4D Animation Take
+      firstFrame: 0
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Low_Back
+        weight: 1
+      - path: Low_Back/Chest
+        weight: 1
+      - path: Low_Back/Chest/L_Shoulder
+        weight: 1
+      - path: Low_Back/Chest/L_Shoulder/L_Elbow
+        weight: 1
+      - path: Low_Back/Chest/L_Shoulder/L_Elbow/L_Hand
+        weight: 1
+      - path: Low_Back/Chest/Neck
+        weight: 1
+      - path: Low_Back/Chest/Neck/Head
+        weight: 1
+      - path: Low_Back/Chest/R_Shoulder
+        weight: 1
+      - path: Low_Back/Chest/R_Shoulder/R_Elbow
+        weight: 1
+      - path: Low_Back/Chest/R_Shoulder/R_Elbow/R_Hand
+        weight: 1
+      - path: Low_Back/L_Hip
+        weight: 1
+      - path: Low_Back/L_Hip/L_Knee
+        weight: 1
+      - path: Low_Back/L_Hip/L_Knee/L_Foot
+        weight: 1
+      - path: Low_Back/R_Hip
+        weight: 1
+      - path: Low_Back/R_Hip/R_Knee
+        weight: 1
+      - path: Low_Back/R_Hip/R_Knee/R_Foot
+        weight: 1
+      - path: Model
+        weight: 1
+      - path: Model/Skin
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 3
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: Low_Back
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
